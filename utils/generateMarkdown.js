@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   ## Deployed Application URL
-  ${data.link}
+  ${data.link|| ''}
 
   ## Table of Contents
   * [Features](#features)
