@@ -16,11 +16,11 @@ const questions = [ {
     name: 'description',
     message: 'Please provide a short description of your project:',
   },
-  {
-    type: 'input',
-    name: 'screenshot',
-    message: 'Please provide a file path for the image you want to use for the screenshot.',
-  },
+ // {
+   // type: 'input',
+    //name: 'screenshot',
+    //message: 'Please provide a file path for the image you want to use for the screenshot.',
+  //},
 
   {
     type: 'input',
